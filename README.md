@@ -1,2 +1,5 @@
 # HyperGraph
-A repo for hypergraph sample code. Hypergraph was used for image search and segmentation for my CVPR 2009 and CVPR 2010 paper.  
+A repo for hypergraph sample code. Hypergraph was used for image search and segmentation for two of my papers:
+
+"Video object segmentation by hypergraph cut" CVPR 2009.
+"Image retrieval via probabilistic hypergraph ranking" CVPR 2010.
